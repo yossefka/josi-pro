@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="activity_name_classification">Eth_CDA</string>
+    <string name="activity_name_detection">Currency</string>
+    <string name="activity_name_speech">Birr</string>
+</resources>
